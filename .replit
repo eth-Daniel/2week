@@ -1,0 +1,2 @@
+run = "npm --prefix=./buydanacoffee-dapp run dev"
+entrypoint = './buydanacoffee-dapp/pages/index.js'
